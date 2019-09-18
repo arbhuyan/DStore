@@ -1,4 +1,4 @@
 
  // 
 
- . Base dir structure for project DStore.
+ . V1 files for project DStore by g-l.
