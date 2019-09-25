@@ -1,0 +1,99 @@
+html,body{
+	height:100%;
+	width:100%;
+}
+.my-nav{
+	background-color:black !important;
+}
+.my-nav .nav-link{
+	color:#ffffff;
+	font-size:16px;
+}
+.my-nav .nav-link:hover{
+	color:deeppink;
+	border-radius:5px;
+}
+.fa-bars{
+	color:white;
+}
+
+
+.land-heading{
+	font-size:70px;
+}
+.land-heading2{
+	font-size:35px;
+	line-height:1.4;
+}
+.btn-lg{
+	color:red;
+	font-size:23px;
+	background-color:#1ac6ff;
+}
+
+/* This is service area start*/
+
+#service{
+	background-image:url(pic/pic11.jpg);
+	background-position:center center;
+	background-attachment:fixed;
+	background-size:cover;
+	width:100%;
+	height:100%;
+}
+.landing-text{
+	position: absolute;
+	top: 38%;
+	text-align: center;
+	width: 100%;
+	color: white;
+	
+}
+
+.text-right .fa:hover{
+	color:cyan;
+}
+.service .btn-primary{
+	margin-left:40px;
+	background-color:deeppink;
+}
+.service .btn-primary:hover{
+	background-color:cyan;
+	transition:1;
+	
+}
+.bold{
+	font-size:30px;
+	margin-left:20px;
+	color:deeppink
+}
+#contuct{
+	background-color:#f2f2f2;
+}
+#contuct .row{
+	line-height:1;
+}
+
+footer{
+	background-color:black;
+	color:white;
+}
+/* Form area start */
+	
+	
+	.form{
+		margin-left:350px;
+		margin-top:8px;
+	}
+/* Form area end */
+
+
+
+
+
+
+
+
+
+
+
